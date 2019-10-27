@@ -34,3 +34,6 @@ EULA
 
 # Contact
 - mrharoonawan@gmail.com
+
+# Sponsor and Support via BTC
+- 3BuUYgEgsRuEra4GwqNVLKnDCTjLEDfptu
