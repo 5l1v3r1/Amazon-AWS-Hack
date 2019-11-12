@@ -32,6 +32,11 @@ EULA
 - Termux ( Cellphones, Android LED, etc )
 - Linux
 
+# Appeared
+- https://pentester.land/newsletter/2019/11/06/the-5-hacking-newsletter-78.html
+- https://raidforums.com/Thread-Amazon-AWS-Hack-Fully-Automated-Remote-Hacking-Tool-for-Amazon-AWS
+- Exploit Writing Page / Facebook 
+
 # Contact
 - mrharoonawan@gmail.com
 
