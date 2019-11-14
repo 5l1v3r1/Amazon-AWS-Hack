@@ -8,19 +8,24 @@ off="\e[0m"
 clear
 function banner() {
 echo "
-					       Amazon AWS Hack Tools
+					       Amazon Hack Tools
         					        version 1.0a
-					       Coder  - Haroon Awan
+					       Coder        - Haroon Awan
+        					            mrharoonawna@gmail.com
+					       Official     - http://www.instagram.com/Hackeruniversee
+					       Facebook     - http://www.mubassirkamdar.com
+ 
+
 "
 }
 banner
 echo "";
 echo -e "$red [$green+$red] 1:$off S3 Bucket Finder 	  ";
 echo -e "$red [$green+$red] 2:$off S3 No-Request for Buckets ";
-echo -e "$red [$green+$red] 3:$off S3 Move Files in Buckets ";
-echo -e "$red [$green+$red] 4:$off S3 Download Everything    ";
+echo -e "$red [$green+$red] 3:$off S3 Move file into Buckets ";
+echo -e "$red [$green+$red] 4:$off S3 Download everything    ";
 echo -e "$red [$green+$red] 5:$off S3 Check Bucket Disk Size    ";
-echo -e "$red [$green+$red] 6:$off EC2 Juicy Bucket Data    ";
+echo -e "$red [$green+$red] 6:$off EC2 Bucket juicy data    ";
 
 echo "";
 echo -ne "$red [$green+$red] Select An Option:$off: " ;
