@@ -53,8 +53,11 @@ EULA
 - Cyber Security
 - ExploitWareLabs
 - National Cyber Security Services
-- DotWeak
+- DotWeak (Computer Security) 
 - Ethical Hacking
+
+# Tweets
+- Over, 1000+ tweets
 
 # Contact
 - mrharoonawan@gmail.com
